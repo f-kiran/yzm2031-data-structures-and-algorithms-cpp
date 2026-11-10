@@ -31,14 +31,14 @@ Lab:	30%
 | 3 | Stack and Queue | Weiss Ch. 3.6-3.7 |
 | 4 | Queue and Chars/Strings | Weiss Ch. 3.7 |
 | 5 | Algorithm Analysis | Weiss Ch. 2 |
-| 6 | Trees | Weiss Ch. 4.1-4.2 |
-| 7 | Binary Search Tree | Weiss Ch. 4.3 |
+| 6 | Trees and Binary Search Tree | Weiss Ch. 4.1-4.3 |
+| 7 | Balanced Tree (AVL) | Weiss Ch. 4.4 |
 | 8 | Midterm | |
-| 9 | Balanced Tree (AVL) | Weiss Ch. 4.4 |
-| 10 | Heap Data Structure | Weiss Ch. 6 |
-| 11 | Sorting Algorithms | Weiss Ch. 7 |
-| 12 | Disjoint Sets | Weiss Ch. 8 |
-| 13 | Hash Tables | Weiss Ch. 5 |
+| 9 | Heap Data Structure | Weiss Ch. 6 |
+| 10 | Sorting Algorithms | Weiss Ch. 7 |
+| 11 | Disjoint Sets | Weiss Ch. 8 |
+| 12 | Hash Tables | Weiss Ch. 5 |
+| 13 | Graph Data Structures | Weiss Ch. 9 |
 | 14 | Final |  |
 
 
