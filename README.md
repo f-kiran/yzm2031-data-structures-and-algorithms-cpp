@@ -17,10 +17,11 @@ Use any of the following environments for compiling, running, and debugging C++:
 - **Visual Studio Code (VS Code)** — recommended for the course; available on Windows, macOS, and Linux
 - **Code::Blocks** — lightweight, beginner-friendly C++ IDE
 - **Xcode** — recommended for students using macOS
-- 
+  
 ## Grading
-Exam:	70% (30% Mid-term, 40% Final)
-Lab:	30% 
+Exams:	70% (30% Mid-term, 40% Final)
+
+Labs:	30% 
 
 # Course Plan
 
